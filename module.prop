@@ -1,6 +1,6 @@
-id=Google_ConCal_Sync
-name=Google ConCal Sync
-version=1.1
+id=Better_MicroG
+name=Better MicroG (MicroG Addon)
+version=1.0
 versionCode=1
-author=github/tomwiggers
-description=Google Contacts and Calendar Sync adapters
+author=github/wozimu
+description=Google Contacts and Calendar Sync Adapters for MicroG.
