@@ -3,7 +3,7 @@
 
 This is a Magisk module that contains the required files to be able to sync your Google Contacts and Calendar to your device.
 
-For use with MicroG. WARNING: Compatible only with arm64/64-bit devices running Android 12!
+For use with MicroG. WARNING: Compatible only with arm64/64-bit devices running Android 12 and above!
 
 # Versions
 
@@ -17,7 +17,7 @@ Taken from [APKMirror](https://www.apkmirror.com/apk/google-inc/).
 
 Ini adalah modul Magisk/KSU(N) yang berisi file yang diperlukan untuk dapat menyinkronkan Kontak dan Kalender Google Anda ke perangkat Anda.
 
-Untuk digunakan dengan MicroG. PERINGATAN: Hanya kompatibel dengan perangkat arm64/64-bit yang menjalankan Android 12!
+Untuk digunakan dengan MicroG. PERINGATAN: Hanya kompatibel dengan perangkat arm64/64-bit yang menjalankan Android 12 dan lebih tinggi!
 
 # Versi Aplikasi
 Diambil dari [APKMirror](https://www.apkmirror.com/apk/google-inc/).
