@@ -10,7 +10,7 @@ For use with MicroG. WARNING: Compatible only with arm64/64-bit devices running 
 Taken from [APKMirror](https://www.apkmirror.com/apk/google-inc/).
 
 - Google Calendar Sync (`com.google.android.syncadapters.calendar`): Version 2024.14.0-622676295-release
-- Google Contacts Sync (`com.google.android.syncapadaters.contacts`): Version 12-8361351
+- Google Contacts Sync (`com.google.android.syncadapters.contacts`): Version 12-8361351
 
 # INDONESIA
 # Google Contacts dan Calendar Sync adapters untuk digunakan dengan MicroG
@@ -23,4 +23,4 @@ Untuk digunakan dengan MicroG. PERINGATAN: Hanya kompatibel dengan perangkat arm
 Diambil dari [APKMirror](https://www.apkmirror.com/apk/google-inc/).
 
 Google Calendar Sync (com.google.android.syncadapters.calendar): Versi 2024.14.0-622676295-release
-Google Contacts Sync (com.google.android.syncapadaters.contacts): Versi 12-8361351
+Google Contacts Sync (com.google.android.syncadapters.contacts): Versi 12-8361351
